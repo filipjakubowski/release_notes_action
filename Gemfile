@@ -1,0 +1,1 @@
+gem 'git_release_notes'
