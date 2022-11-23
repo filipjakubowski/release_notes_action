@@ -1,1 +1,1 @@
-gem 'git_release_notes'
+gem 'git_release_notes', '~> 0.0.3'
