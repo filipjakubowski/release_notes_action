@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ReleaseNotes": "file:../git_release_notes"
+  }
+}
